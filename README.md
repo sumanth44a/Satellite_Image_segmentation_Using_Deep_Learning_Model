@@ -8,6 +8,7 @@
 The U-Net model is employed in this project for semantic segmentation of satellite images. U-Net is known for its efficiency and accuracy in handling image segmentation tasks, making it a suitable choice for this application.
 
 ## Dataset
+  - DatasetLink: https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery?resource=download
 ### Context
 Humans in the Loop is publishing an open-access dataset annotated for a joint project with the Mohammed Bin Rashid Space Center in Dubai, UAE.
 
